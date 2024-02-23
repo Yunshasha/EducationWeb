@@ -1,5 +1,5 @@
 # Getting started
-This website only based on Html &amp; CSS, It is a perfect practice for html CSS beginner.
+This static website only based on Html &amp; CSS, It is a perfect practice for html CSS beginner.
 <br/>
 <br/>
 ![homeui](https://github.com/Yunshasha/EducationWeb/blob/master/EductionWeb/images/ui.png)
